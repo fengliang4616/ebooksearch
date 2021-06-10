@@ -7,7 +7,7 @@ chardet==3.0.4
 constantly==15.1.0
 cryptography==2.4.2
 cssselect==1.0.3
-Django==2.1.5
+Django==2.2.24
 elasticsearch==5.4.0
 elasticsearch-dsl==5.4.0
 fake-useragent==0.1.11
